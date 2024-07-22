@@ -68,3 +68,8 @@ Passos:
 5. Remover o dispositivo: Caso queira remover algum dispositivo, basta selecionar a opção 2: "Remover dispositivo" e colocar o nome que você botou nele. Caso não se lembre, irá aparecer logo acima do menu ou se você selecionar a opção "Meus dispositivos".
 6. Controlar dispositivo: Caso queira controlar a luz (ligar e desligar), o termostato (ligar, desligar, aquecer, esfriar) ou o sistema de segurança (armar com gente em casa, armar sem ninguém em casa ou desarmar), basta selecionar a opção 3 "Controlar dispositivo" com o devido nome dele e depois selecionar a opção que você quer.
    7- Por fim, temos a opção de sair que finaliza a execução do programa.
+
+
+Vídeo explicando e rodando o código:
+
+https://drive.google.com/file/d/1lvRihRcQ2-SVyWU_yhrX7on7blBvDXoq/view?usp=sharing
